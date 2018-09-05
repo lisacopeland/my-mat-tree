@@ -1,6 +1,7 @@
 # MyMatTree
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+This is an example app for Angular Material using the Tree Component
 
 ## Development server
 
